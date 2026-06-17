@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HW1_Calculator/HW1_Calculator.csproj" />
+  <Project Path="HW2_Cars/HW2_Cars.csproj" />
+  <Project Path="HW3_Generics/HW3_Generics.csproj" />
+  <Project Path="TaskHub/TaskHub.csproj" />
+</Solution>
